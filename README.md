@@ -1,1 +1,1 @@
-# tribute_page_charlie_chaplin
+Tribute page to get started with HTML and CSS.
