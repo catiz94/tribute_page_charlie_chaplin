@@ -3,7 +3,6 @@
 body{
   background-color: #2e2f3e;
 }
-
 #main{
   margin: 50px auto;
   width: 900px;
@@ -31,19 +30,15 @@ body{
   margin: 0;
     flex: 1 1 400px;
 }
-
 #tribute-info{
     margin: 0;
     flex: 1 1 500px;
 }
-
-
 #image{
   width: 300px;
   margin: auto;
   height: auto;
 }
-
 p, ul{
   font-size: 1.2rem;
   font-weight: 400;
